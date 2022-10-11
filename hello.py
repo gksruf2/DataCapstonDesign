@@ -1,5 +1,5 @@
 import time
 
 print("Hello")
-time.sleep(5)
+time.sleep(30)
 print("Bye")
