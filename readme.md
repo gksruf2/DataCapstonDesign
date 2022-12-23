@@ -1,4 +1,4 @@
-# DataCapstonDesign
+# DataCapstoneDesign
 ##### made by 임한결, 최지현
 ##### 2022.09.02 ~ 2022.12.31
 
